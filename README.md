@@ -12,23 +12,25 @@
 
 No need to install any necessary libraries to perform this project. the code can be run with using Python version 3.6
 
-Project Motivation:
+----------------------------------------------------------------------------------------------------------------------------------
+
+# Project Motivation:
 
 #Black Friday dataset is about holiday shopping season at last friday in November. 
 
 #the goal is to exploare the dataset to get know what is really happening.
 
-# the task questions are:
+the task questions are:
 
-# Question 1: what are the top products that have been purchased?
+Question 1: what are the top products that have been purchased?
 
-# Question 2: what are the top customers that spend more maney in Black Friday?
+Question 2: what are the top customers that spend more maney in Black Friday?
 
-# Question 3: which age and gender that made purchese?
+Question 3: which age and gender that made purchese?
 
-# Question 4: what are the correlation between all the columns in the dataset?
+Question 4: what are the correlation between all the columns in the dataset?
 
-# getting the answer for these four questions can help sellers to make decisions on what products to make advertise.
+getting the answer for these four questions can help sellers to make decisions on what products to make advertise.
 ----------------------------------------------------------------------------------------------------------------------------------
 
 
